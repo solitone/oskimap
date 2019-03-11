@@ -1,1 +1,1 @@
-# oskimap
+# OpenMtnMap
